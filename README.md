@@ -12,4 +12,4 @@ Run scratch.py to check the detection model individually
 
 Run window.py will show the desktop float button
 
-To wrap up as .exe file, please type in the command in terminal: "python setup.py build"
+To wrap up as .exe file, please type in the command in terminal: "python setup.py build" (for windows)
