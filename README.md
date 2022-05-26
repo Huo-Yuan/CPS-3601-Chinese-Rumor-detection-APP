@@ -2,4 +2,4 @@
 
 This Project is for CPS3601 HCI class final project
 
-For details, please refer to the 3601.pptx file and proposal.doc file
+For more details, please refer to the 3601.pptx file and Proposal.docx file
